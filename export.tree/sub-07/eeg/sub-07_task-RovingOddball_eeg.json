@@ -1,9 +1,0 @@
-{
-    "TaskName": "RovingOddball",
-    "SamplingFrequency": 2048.0,
-    "SoftwareFilters": "n/a",
-    "EEGChannelCount": 72,
-    "EOGChannelCount": 0,
-    "EEGReference": "n/a",
-    "PowerLineFrequency": 50
-}
