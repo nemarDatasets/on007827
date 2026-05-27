@@ -1,0 +1,32 @@
+{
+  "version": "2.0",
+  "dataset_id": "on007827",
+  "source": "openneuro",
+  "source_id": "ds007827",
+  "title": "Loneliness EEG - Roving Oddball Task",
+  "authors": {
+    "Joe Bathelt": {},
+    "Corine van Dijk": {},
+    "Marte Otten": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds007827.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.9.0",
+  "recording_modality": [
+    "beh",
+    "eeg"
+  ],
+  "datatypes": [
+    "beh",
+    "eeg"
+  ],
+  "acknowledgements": "We thank Famke Bruggeman, Rosalind Dingarten, Vita Karkauskaite, Cleo Rong, Sophie Serrarens, Evi Veer, and Jari Vink for their assistance with data collection. We are also grateful to the participants who generously gave their time to this research."
+}
