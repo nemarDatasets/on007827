@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Loneliness EEG - Roving Oddball Task",
-  "description": "This dataset comprises 72-channel EEG recordings from 99 young adults performing a roving oddball task with emotional face stimuli. Participants were stratified by UCLA Loneliness Scale scores to investigate whether subjective loneliness is associated with altered automatic processing of social-emotional information, as indexed by event-related potential components elicited by emotional facial expressions. The dataset includes behavioral ratings of stimuli on valence, arousal, and dominance, along with comprehensive demographic and psychological questionnaire data.",
-  "methods_description": "EEG data were acquired using a BioSemi ActiveTwo system (72 channels, 2048 Hz sampling rate) with CMS reference at Cz and DRL ground at Fz. Participants performed a visual roving oddball task with face stimuli displaying happy or angry expressions, selected from the FACES database and preprocessed using webmorphR and SHINE. Following the EEG session, participants rated face stimuli on three Self-Assessment Manikin dimensions (valence, arousal, dominance) on 1–5 Likert scales. Participants were grouped by UCLA Loneliness Scale (Version 3) scores into Lonely (n=36) and Non-Lonely (n=63) groups. Psychological assessments included Brief Symptom Inventory-53 (BSI-53), Lubben Social Network Scale-6 (LSNS-6), Generalized Anxiety Disorder-7 (GAD-7), Perceived Stress Scale-10 (PSS-10), and Patient Health Questionnaire-9 (PHQ-9).",
+  "description": "This dataset comprises 64-channel EEG recordings from 99 young adults performing a roving oddball task with emotional face stimuli. Participants were stratified by UCLA Loneliness Scale scores to investigate whether subjective loneliness is associated with altered automatic processing of social-emotional information, as indexed by event-related potential components elicited by emotional facial expressions. The dataset includes behavioral ratings of stimulus valence, arousal, and dominance, along with comprehensive demographic and psychological questionnaire data.",
+  "methods_description": "EEG data were acquired using a BioSemi ActiveTwo system (72 channels, 2048 Hz sampling rate) with CMS reference at Cz and DRL ground at Fz. Participants performed a visual roving oddball task with face stimuli displaying happy or angry expressions, selected from the FACES database and preprocessed using webmorphR and SHINE. Following the EEG session, participants rated each face stimulus on three Self-Assessment Manikin dimensions (valence, arousal, dominance) on a 1–5 Likert scale.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -22,37 +22,22 @@
       "term": "roving oddball"
     },
     {
-      "term": "oddball task"
-    },
-    {
-      "term": "emotion recognition"
-    },
-    {
       "term": "loneliness"
     },
     {
-      "term": "UCLA Loneliness Scale"
-    },
-    {
-      "term": "social cognition"
+      "term": "emotion processing"
     },
     {
       "term": "facial expressions"
     },
     {
-      "term": "BioSemi ActiveTwo"
+      "term": "social cognition"
     },
     {
-      "term": "Brief Symptom Inventory-53"
+      "term": "UCLA Loneliness Scale"
     },
     {
-      "term": "Lubben Social Network Scale-6"
-    },
-    {
-      "term": "GAD-7"
-    },
-    {
-      "term": "PHQ-9"
+      "term": "Self-Assessment Manikin"
     }
   ],
   "related_identifiers": [
